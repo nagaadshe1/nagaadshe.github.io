@@ -1,5 +1,5 @@
 # 💫 About Me:
-i'm a web developer<br>i'm a cyber security enthusiastic<br><br>Code 👨‍💻 Sleep 😴 Java, C++, HTML/CSS, JS, Python 🐍, etc.
+i'm a web developer<br>cyber security enthusiastic<br><br>Code
 
 
 ## 🌐 Socials:
